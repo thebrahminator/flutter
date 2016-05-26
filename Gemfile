@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#For installing Devise Gem -> For all User Authentiacation purposes.
+gem 'devise'
 #For installing AngularJS
 gem 'angularjs-rails'
 #For the Twitter Bootstrap
